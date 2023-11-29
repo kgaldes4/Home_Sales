@@ -1,4 +1,6 @@
 # Home_Sales
+I used google colab for the notebook. 
+Sources used are cited in the notebook. 
 
 Project Instructions:
 Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
@@ -36,8 +38,3 @@ Uncache the home_sales temporary table.
 Verify that the home_sales temporary table is uncached using PySpark.
 
 Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
-
-
-
-I used google colab for the notebook. 
-Sources used are cited in the notebook. 
